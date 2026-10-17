@@ -1,16 +1,74 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# StudyMate 🎓
 
-Currently, two official plugins are available:
+A simple and modern student productivity dashboard built to help students organize their studies, manage tasks, and track daily progress.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+[Open StudyMate](https://study-mate-ruddy-tau.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Manage daily study tasks
+- Mark tasks as completed
+- Track task completion progress
+- Dark mode and light mode
+- Clean and responsive dashboard
+- Simple interface for student productivity
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Lucide React
+- Recharts
+
+## 📸 Preview
+
+Open the live demo to explore the application.
+
+<!-- Add your project screenshot here later -->
+
+## 💻 Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/s-shyam77/StudyMate.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd StudyMate
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in your terminal.
+
+## 🎯 Purpose
+
+StudyMate was created as a learning project to practice React, frontend development, UI design, and GitHub workflows.
+
+## 👨‍💻 Author
+
+**Shyam Lal Mali**
+
+- GitHub: [@s-shyam77](https://github.com/s-shyam77)
+
+---
+
+If you find this project useful, feel free to explore the repository!
